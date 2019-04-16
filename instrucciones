@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" type="text/css" media="screen" href="instrucciones.css"/>
+		<title> Instruccones Monopoly GoT</title>
+		<link href="https://fonts.googleapis.com/css?family=Cardo|Cinzel|Cormorant|Crimson+Text|Nanum+Myeongjo" rel="stylesheet">
+	</head>
+<body>
+<div id="contenidoc">
+<h1>
+<img src="http://pluspng.com/img-png/game-of-thrones-logo-png-game-of-thrones-logo-logotype-wordmark-5000.png" width="445px"> <hr><p></p>
+MONOPOLI EDICIÓN JUEGO DE TRONOS CONQUISTA WESTEROS, LAS CIUDADES LIBRES Y EL MUNDO CONOCIDO Basado en la serie de HBO, en la novela de George R.R. Martin 
+</h1>
+<ul id="menu">
+	<li><input type="checkbox" name="list" id="nivel1-1"><label for="nivel1-1">OBJETIVO DEL JUEGO:</label>
+   	<ul class="interior">
+         	<p>Lograr ser el participante más rico del juego o el único jugador que no quede en quiebra. El jugador más rico será aquel que sumando el valor de sus propiedades y dinero, tenga más capital acumulado.</p>
+	</ul>
+	</li>
+	<li><input type="checkbox" name="list" id="nivel1-2"><label for="nivel1-2">ANTES DEL JUEGO:</label>
+	<ul class="interior">
+		<p>Antes de comenzar, los jugadores ponen el límite del juego. Los límites pueden ser dos, a) Juego largo: el juego termina hasta que todos los jugadores, menos uno, queden en quiebra (el jugador que no quebró será el ganador), o b) Poner un límite de tiempo (Por ejemplo, dos horas), y al final de este tiempo, el jugador con más capital acumulado será el ganador.</p>
+<p>Cada jugador elige una ficha de avance (estandartes de las familias nobles) y la pone en la casilla de El banco de bravos. Se toman todas las tarjetas marcadas como Cuervo y las marcadas como Fortuna y se colocan boca abajo en el lugar que se especifica en el tablero. Cada jugador recibe $150,000(6 billetes de $500, 5 billetes de $1000, 6 billetes de $2000, 2 billetes de $5000, 2 billetes de $10000 y 2 billetes de $50000).  Se elige a una persona para representar a Braavos. El jugador que lo represente deberá cuidar no revolver sus pertenencias (títulos, dinero, posadas, Etc) con las del banco (Para conocer las obligaciones y facultades del banco, consultar 1. Braavos ).</p>
+	</ul>
+	</li>
+	<li><input type="checkbox" name="list" id="nivel1-3"><label for="nivel1-3">FORMA DE JUEGO:</label>
+	<ul class="interior">
+		<p>Cada jugador tirará un dado. El participante que obtenga el número más alto será el que inicie el juego. 
+Cada participante en su turno tirará los dos dados y avanzará el número de casillas que le marquen. Cuando termine, el turno pasará al jugador de la izquierda. Las fichas irán avanzando por las casillas de las distintas tierras, siempre en contra de las manecillas del reloj.  </p>
+<p>Si en un mismo turno, el jugador tira los dados y los dos caen en el mismo número (DOBLES), el jugador avanzará normalmente, pero tendrá otro turno extra. Si en este turno extra vuelve a obtener DOBLES, tendrá nuevamente otro turno extra, pero si por tercera vez vuelve a obtener DOBLES el jugador irá directamente a la casilla de EXILIADO por haber abusado de las leyes del reino (para saber qué pasa cuando alguien es enviado a esta casilla, consultar 5. EXILIADO).</p>
+<p>En cada turno, el jugador podrá caer en: </p>
+<p>• Una ciudad. Si el jugador cae en una ciudad, podrá comprarlo si no tiene dueño. Pero si tiene dueño deberá pagar la renta dependiendo de la situación en la que se encuentre la propiedad (Para saber más sobre el pago del alquiler, consultar 9. RENTA). Si el jugador cayera en una ciudad sin dueño y no quisiera comprarlo, el banco se verá en la necesidad de subastarlo (Para saber más sobre como subastar, consultar 4. SUBASTA).  NOTA: Si el banco es el dueño de la propiedad, no se le paga renta. </p>
+<p>• CUERVO o FORTUNA. Si el jugador cae en una casilla marcada como CUERVO o como FORTUNA, deberá tomar del tablero un CUERVO o una FORTUNA según sea el caso, y tendrá que seguir las instrucciones que le marque (para mayor información, leer 11. CUERVO y FORTUNA). </p>
+<p>• La casilla de EXILIADO. En caso de tirar los dados y caer en la casilla de EXILIADO el jugador únicamente estará de visita y seguirá su turno normalmente (para saber cuándo se incurre en algún castigo y se declara formalmente EXILIADO, favor de leer 5. EXILIADO). </p>
+<p>• Un puerto, parlamento o corte. Si el jugador cae en un puerto, en parlamento o corte, podrá comprar la propiedad si no tiene dueño. Pero si tiene dueño deberá pagar la renta dependiendo de la situación en la que se encuentre la propiedad (para saber más sobre el pago de la renta de las líneas áreas, de parlamento o de corte consultar 9. RENTA). Si el jugador cayera en alguna de estas tres propiedades sin dueño y no quisiera comprarla, el banco se verá en la necesidad de subastarla (para saber más sobre como subastar, consultar 4. SUBASTA). </p>
+<p>• Naath. En el caso de caer en Naath, el jugador únicamente pasará un bonito día y no tendrá que hacer nada más que ver canguros. </p>
+<p>• Pase a la casilla de EXILIADO. Si algún jugador cae en esta casilla, automáticamente será enviado a la casilla de EXILIADO y quedará formalmente EXILIADO por su pésima conducta como turista (para saber que pasa cuando usted queda EXILIADO, consultar 5. EXILIADO). Los jugadores podrán comprar propiedades desde la primera vuelta. En el trascurso del juego, los jugadores darán varias vueltas al tablero y así se irá desarrollando el juego. Los jugadores sólo podrán pedir dinero prestado al banco, hipotecando sus propiedades. Ningún jugador puede pedir prestado o prestar a otro. </p>
+	</ul>
+	</li>
+	<div id="num">
+	<li><input type="checkbox" name="list" id="nivel1-4"><label for="nivel1-4">1.BANCO BRAAVOS</label>
+		<ul class="interior"><p>EL BANCO tiene las siguientes facultades y obligaciones: </p>
+				<p>• Guarda antes de que se utilicen en el juego el dinero restante, los títulos de propiedad, las posadas y los castillos. </p>
+<p>• Paga los sueldos y gratificaciones. </p>
+<p>• Vende las propiedades, las posadas y los castillos a los jugadores. </p>
+<p>• Les retiene en prenda propiedades a los participantes que así lo pidan, prestándoles la cantidad marcada en el título de propiedad como HIPOTECA. </p>
+<p>• El banco cobra además de propiedades, posadas y castillos, todas las multas, contribuciones, préstamos, intereses, etc. </p>
+<p>• El banco NUNCA queda en quiebra. Si se queda sin dinero, podrá emitir todo el dinero que requiera. Únicamente tendrá que escribir en un papel la cantidad de dinero acreditada a cualquier jugador. </p>
+<p>• El banco se encargará de SUBASTAR la propiedad que no sea adquirida por la persona que cayó en ella. </p></ul></li>
+	<li><input type="checkbox" name="list" id="nivel1-5"><label for="nivel1-5">2.CORTESÍA </label>
+		<ul class="interior"><p>Cada vez que un jugador pase o caiga en la casilla de BRAAVOS, se le dará una cortesía de $20,000 al banco. Si el jugador en turno llega o pasa por BRAAVOS y no cobra su cortesía antes de que inicie su turno el siguiente jugador, NO la recibirá en esa vuelta. Cuando un jugador sea EXILIADO, NO podrá recibir su cortesía. </p>
+		</ul>
+		</li>
+	<li><input type="checkbox" name="list" id="nivel1-6"><label for="nivel1-6">3. COMPRA DE PROPIEDADES. </label>
+<ul class="interior"><p>Los jugadores irán avanzando en cada jugada y podrán adquirir la propiedad en la que caigan si no tiene dueño (comprándola al banco). Si el jugador decide comprar la propiedad, le dará al banco el importe marcado bajo la propiedad y recibirá del banco el TÍTULO DE PROPIEDAD. El nuevo dueño de la propiedad tomará el TÍTULO y lo colocará boca arriba junto a él y sus demás títulos (si los tuviera). Si prefiere no comprar la propiedad, el banco inmediatamente la subastará (véase a continuación SUBASTA). Reiteramos, el jugador que caiga en una país, puerto, corte o parlamento, que no tenga dueño, podrá comprarla. Simplemente pagará el importe marcado en la parte inferior de la casilla al banco. El banco dará al jugador el TÍTULO DE PROPIEDAD. Es bueno ser dueño, ya que por el sólo hecho de ser dueños, cobrarán renta a cualquier persona que caiga en ellos. El dueño no podrá cobrar renta de las propiedades en prendas. Los países están divididos en BLOQUES de colores. Por ejemplo, un bloque es formado por el color rojo y es formado por Canadá, Estados Unidos y México. A los jugadores les conviene ser dueños de bloques completos de países, porque podrán cobrar una renta más alta a cualquier jugador que caiga en ellos, además de que podrán comprar en ellos posadas y castillos. Si algún jugador cae en una casilla donde el dueño, posee el BLOQUE completo, y no tiene ni posadas ni castillos en la casilla, el visitante deberá pagar al dueño, el doble de la renta que se presenta en la tarjeta de propiedad. </p> 
+</ul>
+</li>
+	<li><input type="checkbox" name="list" id="nivel1-7"><label for="nivel1-7">4. SUBASTA.</label>
+<ul class="interior"><p>En caso de que algún jugador no quiera comprar la propiedad en la que acaba de caer, el BANCO se encargará de poner la propiedad en subasta pública. La subasta iniciará con el precio que deseé el BANCO y cualquiera de los jugadores podrá entrar dentro de la subasta (incluso el jugador que acaba de rechazar la compra de la propiedad). Al final de la subasta, la propiedad se venderá al mejor postor y se le entregará el TÍTULO DE PROPIEDAD. </p>
+</ul>
+</li>
+	<li><input type="checkbox" name="list" id="nivel1-8"><label for="nivel1-8">5. EXILIADO. </label>
+		<ul class="interior"><p>En caso de caer en la casilla de EXILIADO, el jugador sólo quedará en ella como visita y no tendrá ningún castigo. Pero cuando un jugador es formalmente EXILIADO, irá inmediatamente a la casilla de EXILIADO y perderá su turno. Si el jugador es EXILIADO, no importa donde esté, NO podrá cobrar su sueldo de $20,000 porque irá directamente a la casilla y quedará formalmente EXILIADO.  El jugador quedará EXILIADO únicamente por tres razones: </p>
+<p>a) Si cae en la casilla de PASE A LA CASILLA DE EXILIADO </p>
+<p>b) Si es enviado a la casilla de EXILIADO por un CUERVO o por un FORTUNA </p>
+<p>c) Como ya comentamos, si en un mismo turno, el jugador tira los dados y los dos caen en el mismo número (DOBLES), el jugador avanzará normalmente, pero tendrá otro turno extra. Si en este turno extra vuelve a obtener DOBLES, tendrá nuevamente otro turno extra, pero si por tercera vez vuelve a obtener DOBLES el jugador irá directamente a la casilla de EXILIADO por haber abusado de las leyes internacionales. </p>
+<p>Si un jugador fue enviado a la casilla de EXILIADO podrá salir únicamente de la siguiente forma: </p>
+<p>a) Sacando DOBLES en alguno de los siguientes tres turnos que le sigan. Si obtiene DOBLES en alguno de los turnos, automáticamente saldrá de la casilla y avanzará los números que le marquen los dados. </p>
+<p>b) Si tiene un CUERVO o un FORTUNA con la frase “RECOJA SU PASAPORTE Y SALGA DE LA CASILLA DE EXILIADO”. Pero si no tiene esta salida, y otro jugador tiene una tarjeta de estas, podrá comprársela al precio que acuerden. </p>
+<p>c)La otra forma de salir es mediante el pago de una multa al banco de $5,000.  El jugador no podrá permanecer EXILIADO por más de tres turnos, entonces en su tercer turno como EXILIADO tendrá que solucionar su situación.  Aunque el jugador esté EXILIADO, podrá comprar o vender propiedades, podrá cobrar rentas, hipotecar, etc. </p>
+</ul>
+</li>
+	<li><input type="checkbox" name="list" id="nivel1-9"><label for="nivel1-9">6. VENTA DE PROPIEDADES. </label>
+		<ul class="interior"><p>Cualquier jugador podrá vender sus propiedades a otro. Estas operaciones se podrán realizar, aunque no sea el turno de los jugadores implicados. La venta se realiza como una transacción privada, cualquier propiedad podrá ser vendida en el precio que acuerden las dos partes. Únicamente las posadas y los castillos NO se pueden vender a otro jugador.  Si se quiere vender una propiedad que forma parte de un bloque con posadas y/o castillos, primero se tienen que vender al banco los castillos o posadas (a la mitad del precio en el que se compraron) de todo ese bloque y después se podrá vender la propiedad. </p>
+</ul>
+</li>
+	<li><input type="checkbox" name="list" id="nivel1-10"><label for="nivel1-10">7. COMPRA DE POSADAS Y CASTILLOS.  </label>
+		<ul class="interior"><p>A los participantes les favorece tener castillos o posadas en sus propiedades, ya que cualquier jugador que caiga en ellas, tendrá que pagarle al dueño una renta mucho más alta que la normal. Los participantes podrán comprar o vender posadas y/o castillos, aunque no sea su turno. </p>
+<p>El jugador podrá edificar posadas y castillos en sus propiedades cumpliendo siempre con las reglas de construcción (se mencionan las reglas más adelante). Para poder edificar posadas y/o castillos en propiedades, el jugador deberá ser dueño del BLOQUE completo de países que tengan el mismo color (por ejemplo: Si quiere comprar una posada en WINTERFELL, deberá ser dueño también de CASTLE BLACK Y DREADFORT). Además, para poder poner posadas y/o castillos ninguna de las propiedades del BLOQUE podrá estar en prenda.  </p>
+<p>El precio que debe pagar al BANCO el dueño del BLOQUE para edificar cada posada en la propiedad deseada está marcado en la misma propiedad. El jugador podrá tener hasta cuatro posadas en una propiedad. Antes de poder comprar un CASTILLO, el jugador deberá tener cuatro posadas en cada casilla del BLOQUE. </p>
+<p>Cualquier jugador que caiga en una propiedad que tenga castillo o posadas, deberá pagar al dueño la renta marcada en la propiedad (de acuerdo a si tiene castillo o de acuerdo al número de posadas que tenga). </p>
+<p></p>
+<li><input type="checkbox" name="list" id="nivel3-10-1"><label for="nivel3-10-1">REGLAS DE CONSTRUCCIÓN DE POSADAS Y/O CASTILLOS.</label>
+<ul class="interior"><p> El jugador que quiera construir en un bloque de su propiedad, deberá hacerlo uniformemente. Es decir que no podrá construir más de una posada en una casilla de un bloque, hasta haber construido una posada en cada casilla de dicho bloque. Cuando ya tenga una posada en cada casilla del bloque, podrá entonces comenzar a construir la segunda fila de posada y así sucesivamente hasta llegar a tener cuatro posadas por casilla. Entonces queda claro que un jugador no podrá poner de golpe, por ejemplo, tres posadas en una casilla, si no pone también tres posadas en las demás casillas del bloque.  </p>
+<p>Lo mismo pasará con los castillos, se tendrán que construir en el bloque de forma uniforme (por ejemplo: No se podrá tener un castillo en una casilla y una posada en las demás propiedades del bloque). </p>
+<p>Es importante mencionar que una vez que un jugador tiene cuatro posadas en una casilla y quiere construir un castillo, deberá devolver las cuatro posadas al banco, pagar el castillo y entonces podrá poner el castillo en la casilla. Hay que aclarar que el banco no devolverá dinero por la devolución de las cuatro posadas, ya que el costo para poner un castillo es el costo de las 4 posada más el costo mencionado para poner un castillo.  </p>
+</ul></li>
+			<li><input type="checkbox" name="list" id="nivel3-10-2"><label for="nivel3-10-2">ESCASEZ DE CASTILLOS Y/O POSADAS. </label>
+<ul class="interior"<p>Cuando el banco no tenga castillos y/o posadas, los participantes que deseen comprarlas deberán esperar a que algún otro jugador devuelva o venda al banco sus posadas. Si el banco tiene pocos castillos y/o posadas y dos o más jugadores quieren comprar en ese momento, el banco deberá subastarlas al mejor postor. </p></ul></li>
+</ul>
+</li>
+
+	<li><input type="checkbox" name="list" id="nivel1-11"><label for="nivel1-11">8. PUERTOS, CORTE Y PARLAMENTOS </label>
+<ul class="interior"><p>Los puertos, la corte y parlamento, son propiedades que se pueden adquirir normalmente. </p>
+<p>En Los puertos, en la corte y en parlamento, NO se pueden poner posadas ni castillos. </p>
+<p>Para Los puertos, el dueño cobrará renta dependiendo del número de puertos que posea (la renta correspondiente está marcada en el título de propiedad).</p>
+<p>Para el caso de la corte y parlamento, sólo se podrá cobrar una renta mayor siendo la misma persona dueña de las dos propiedades. Si es dueña de las dos propiedades, cobrará de renta, lo que le haya salido en los dados al visitante, multiplicado por 10 (ejemplo: si el visitante obtuvo en la suma de los dados 3, deberá pagar $30 al dueño). Y si es dueño de una sola de estas dos propiedades, cobrará lo que haya lanzado en los dados el visitante, pero multiplicado por 5. </p>
+</ul></li>
+	<li><input type="checkbox" name="list" id="nivel1-12"><label for="nivel1-12">9. RENTA.  </label>
+<ul class="interior"><p>El jugador que al avanzar caiga en una casilla que tenga dueño, deberá pagar la renta correspondiente a esa casilla (la renta está marcada en la parte frontal del Título de Propiedad). La renta que deberá pagar el visitante dependerá básicamente de la situación en la que se encuentre la propiedad. Si no tiene posadas ni castillos y al dueño no le pertenece el bloque completo, el visitante simplemente pagará la renta marcada hasta arriba de la propiedad. Si el dueño de la casilla es además dueño del bloque de color (pero no tiene ni posadas ni castillo en la propiedad), el visitante le tendrá que pagar el doble de la renta marcada en el título de propiedad.  Pero si tiene castillo o posadas, el visitante deberá pagar al dueño la cantidad marcada en el título de propiedad, dependiendo del caso. </p>
+<p>NOTA: Cualquier propiedad que esté en prenda por el BANCO NO podrá cobrar renta. El dueño de un bloque podrá seguir cobrando doble renta en las casillas del mismo bloque que no estén en prendas. </p>
+<p>La renta que deberá cobrar el dueño en el caso de Los puertos, parlamento o corte, depende de la cantidad de estas propiedades que posea el dueño. El monto a cobrar dependerá de lo señalado en la propiedad correspondiente. </p>
+<p>Para puertos, la renta subirá mientras más puertos posea y cobrará lo señalado en el título de propiedad. Para la corte o parlamento, cobrará dependiendo del número que obtenga en los dados, el visitante. El dueño cobrará lo obtenido en los dados multiplicado por 5, si tiene una sola de estas propiedades, o lo multiplicará por 10 si es dueño de las 2 propiedades. </p>
+</ul></li>
+	<li><input type="checkbox" name="list" id="nivel1-13"><label for="nivel1-13">10. EN PRENDA.  </label>
+		<ul class="interior"><p>Una vez que el jugador posee alguna propiedad, puede empeñarla si necesita dinero o si así lo desea. Estas operaciones se podrán realizar, aunque no sea el turno del jugador implicado. Solamente al banco se le puede empeñar una propiedad.  </p>
+<p>El valor en el cual se puede empeñar cada propiedad está marcado en el reverso del título de propiedad (es exactamente la mitad del precio de la propiedad). Este dinero lo recibe del banco la persona que quiere empeñar su propiedad. Una vez que recibe el dinero del banco, deberá voltear el título de propiedad. Cuando se levante la prenda, se volteará el título nuevamente de frente. </p>
+<p>No se pueden empeñar las posadas y los castillos. Si se desea empeñar una propiedad que tiene castillo o posadas, el propietario primero deberá vender al banco el castillo o la posada a la mitad del precio de compra. Ya que vendió el castillo o las posadas al banco, entonces podrá empeñar. Una propiedad en prenda no podrá cobrar renta a ningún jugador que caiga en ella. Pero si se podrá cobrar renta de todas las otras propiedades que no estén en prendas. </p>
+<p>Para poder cobrar renta, poner castillo o posadas en una propiedad empeñada, el dueño tendrá que pagar al banco la prenda más un 10% (de esta forma reclama la prenda al banco). Los nuevos castillos o posadas que se paguen tendrán que comprarse a precio normal. </p>
+<p>Cualquier propietario que tenga empeñada una propiedad, retiene la posesión de esta, ningún otro jugador podrá adquirirla pagando al banco la prenda. Pero el dueño de la propiedad empeñada podrá venderla voluntariamente a otro jugador al precio que acuerden (la propiedad seguirá en prenda hasta que el nuevo dueño no lo pague más el 10% y así quede la prenda reclamada). </p>
+</ul></li>
+	<li><input type="checkbox" name="list" id="nivel1-14"><label for="nivel1-14">11. CUERVO y FORTUNA.  </label>
+		<ul class="interior"><p>Cuando alguno de los jugadores cae en una casilla de CUERVO o de FORTUNA, tomará, según sea el caso, una baraja del tablero y tendrá que seguir al pie de la letra la instrucción que se le indique. Ya que cumplió la instrucción que se le indicó, regresará el CUERVO o el FORTUNA al fondo de donde la tomó (únicamente en el caso de que se pueda quedar con la baraja no la regresará debajo de las demás). </p>
+</ul></li>
+	<li><input type="checkbox" name="list" id="nivel1-15"><label for="nivel1-15">12. JUGADOR EN QUIEBRA.  </label>
+		<ul class="interior"><p>Un jugador queda en quiebra, cuando tiene que pagar a algún otro jugador o al banco una cantidad de dinero que no tiene. Es decir, cuando no puede juntar (ni empeñando, ni vendiendo) con lo que tiene la cantidad de dinero a pagar. </p>
+<p>Si queda en quiebra cuando le tiene que pagar a otro jugador, tendrá que darle TODOS sus bienes al jugador que le debe y se retirará del juego. Cuando haga esta liquidación, si tiene castillos o posadas, tiene que devolvérselos al banco a cambio de dinero, por una cantidad igual a la mitad del precio que pagó por ellos y deberá entregarle el dinero al acreedor. Si el deudor tiene propiedades empeñadas, se las dará al acreedor quien deberá pagar al banco inmediatamente intereses de préstamo de cada propiedad (10% del valor de la propiedad). En ese mismo turno, el acreedor podrá pagar la prenda completa de las propiedades y con sólo hacer esto, quitará la prenda de estas propiedades. Pero si decide pagar la hipoteca en otro turno, tendrá que pagar nuevamente el 10%, además de pagar la prenda. </p>
+<p>Si el jugador queda en quiebra cuando le tiene que pagar al banco y no a otro jugador, le entregará TODOS sus bienes al banco. El banco en ese momento, venderá todos los bienes (menos castillos y posadas) en subasta pública. El jugador que quedó en quiebra sale del juego. </p>
+</ul></li></div>
+</ul> </div>
+</body>
+</html>
