@@ -1,0 +1,90 @@
+﻿body {
+	background-color: #7b1f1f;
+	font-family: 'Roboto Slab', serif;
+	font-size: 16pt;
+	padding:1%;
+	color: #ffc164;
+}
+
+h1 {
+	text-align: center;
+	font-size: 18pt;
+	width: 180%;
+	margin-left: -30%;
+	font-family: 'Cinzel', serif;
+	font-weight: normal;
+	}
+
+p {
+	text-align: justify;
+}
+
+#menu * { list-style:none;}
+#menu li{ line-height:180%;}
+#menu li a{color:#222; text-decoration:none;}
+#menu li a:before{ content:"\025b8"; color:#ddd; margin-right:4px;}
+#menu input[name="list"] {
+	position: absolute;
+	left: -1000em;
+	}
+	
+ul, menu, dir {
+padding-inline-start: 0px}
+
+#menu label {
+	margin: 5px;
+    width: 100%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    display: inline-block;
+	text-align: center;
+	background-color: #540404;
+	font-family: 'Cinzel', serif;
+	}
+#menu label:before{margin-right:4px; 
+}
+#menu input:checked ~ label:before{ content:"\025be";
+}
+#menu input:checked ~ label {
+background-color: #964444 }
+#menu .interior{display: none;}
+#menu input:checked ~ ul{display:block;}
+#menu li ul{line-height: 120%;}
+
+#num label{
+	text-align: left;
+}
+
+#menu p {
+	font-family: 'Nanum Myeongjo', serif;
+	font-size: 16pt;
+	color: #ffd390;
+	}
+
+#contenidoc {
+	width: 445px ;
+	margin-left: 12%
+}
+
+#contenidoc p {
+	width: 180%;
+	margin-left: -30%;
+}
+
+hr { 
+	height:1px; 
+	border:none; 
+	color:#540404; 
+	background-color:#540404; 
+	width:60%; 
+	text-align:center; 
+	margin: 0 auto;
+}
+
+img {
+-webkit-filter: invert(100%);filter: invert(100%);}
+
+
+/*content:"\025b8"*/
